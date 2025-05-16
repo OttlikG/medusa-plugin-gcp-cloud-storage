@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@gaborottlik/medusa-plugin-gcp-cloud-storage": {
+      "signature": "80af4eda2fb706115fdbb7f5538860ed",
+      "file": true
+    }
+  }
+}
